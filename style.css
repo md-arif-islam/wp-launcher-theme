@@ -14,3 +14,11 @@ Text Domain: launcher
 Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, featured-images, full-site-editing, block-patterns, rtl-language-support, sticky-post, threaded-comments, translation-ready, wide-blocks, block-styles, accessibility-ready, blog, portfolio, news
 */
 
+#fh5co-logo{
+    margin-top: 50px!important;
+}
+
+#fh5co-logo a{
+    font-size: 48px;
+
+}
